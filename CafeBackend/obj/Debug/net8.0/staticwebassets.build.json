@@ -1,1 +1,12 @@
-{"Version":1,"Hash":"QcK3H9TsmnuOabliqvOqtNWoA+1c0rbUcKWP7AD2LgE=","Source":"Cafe Proje","BasePath":"_content/Cafe Proje","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "+7X5pZ8hXKCf11+hlrMmNl/Y8jmbw5aDAO92y6e+hj0=",
+  "Source": "CafeBackend",
+  "BasePath": "_content/CafeBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

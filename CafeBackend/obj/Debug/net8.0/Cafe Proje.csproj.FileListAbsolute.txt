@@ -1,0 +1,35 @@
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\appsettings.Development.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\appsettings.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Cafe Proje.staticwebassets.endpoints.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Cafe Proje.exe
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Cafe Proje.deps.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Cafe Proje.runtimeconfig.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Cafe Proje.dll
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Cafe Proje.pdb
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.csproj.AssemblyReference.cache
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.AssemblyInfoInputs.cache
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.AssemblyInfo.cs
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.csproj.CoreCompileInputs.cache
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.MvcApplicationPartsAssemblyInfo.cs
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.MvcApplicationPartsAssemblyInfo.cache
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.sourcelink.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\scopedcss\bundle\Cafe Proje.styles.css
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.csproj.Up2Date
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.dll
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\refint\Cafe Proje.dll
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.pdb
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\Cafe Proje.genruntimeconfig.cache
+D:\Projeler\Stajyer-projeleri\cafe\cafe-backend\Cafe Proje\obj\Debug\net8.0\ref\Cafe Proje.dll

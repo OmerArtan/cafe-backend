@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CafeBackend"
   ],
+  "SelectedNode": "\\CafeBackend\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

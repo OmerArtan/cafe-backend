@@ -1,25 +1,28 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// 1. Controller Servisini Ekle
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
+// 2. CORS Güvenlik Ýznini Ekle (builder.Build'ýn ÜSTÜNDE olmalý)
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
+// 3. Uygulamayý Ýnþa Et (Tam olarak burada olmalý!)
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+// 4. CORS'u Aktif Et (app.Build'ýn ALTINDA olmalý)
+app.UseCors();
 
-app.UseHttpsRedirection();
-
+// 5. Yönlendirme ve Yetkilendirme Ayarlarý
 app.UseAuthorization();
-
 app.MapControllers();
 
+// 6. Projeyi Çalýþtýr
 app.Run();

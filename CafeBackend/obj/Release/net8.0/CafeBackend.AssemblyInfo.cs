@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CafeBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13840ee63be0dc9f16dc968cabc152e832efd1e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c23c085715cbdfbb075f0bc4f0e6f1089724d1e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CafeBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CafeBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

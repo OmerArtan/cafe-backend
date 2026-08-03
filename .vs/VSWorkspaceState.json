@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CafeBackend"
+    "\\CafeBackend",
+    "\\CafeBackend\\Controllers",
+    "\\CafeBackend\\Data",
+    "\\CafeBackend\\Models"
   ],
-  "SelectedNode": "\\CafeBackend\\Program.cs",
+  "SelectedNode": "\\CafeBackend\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

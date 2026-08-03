@@ -1,14 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\Desktop\\PROJELER\\cafe-backend\\",
+  "WorkspaceRootPath": "C:\\projeler\\cafe-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00D6mer\\Desktop\\PROJELER\\cafe-backend\\CafeBackend\\butonClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\butonClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u00D6mer\\Desktop\\PROJELER\\cafe-backend\\CafeBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Data\\CafeDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Data\\CafeDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Models\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Models\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Models\\ProductRecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Models\\ProductRecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Models\\RawMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Models\\RawMaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Models\\Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CafeBackend\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +74,184 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CafeBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T12:24:27.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CafeBackend\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T11:29:50.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CafeBackend\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T11:29:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CafeBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CafeBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-01T11:19:22.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CafeDbContext.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Data\\CafeDbContext.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Data\\CafeDbContext.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Data\\CafeDbContext.cs",
+              "RelativeToolTip": "CafeBackend\\Data\\CafeDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T08:26:55.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\PROJELER\\cafe-backend\\CafeBackend\\Program.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Program.cs",
               "RelativeDocumentMoniker": "CafeBackend\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\PROJELER\\cafe-backend\\CafeBackend\\Program.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Program.cs",
               "RelativeToolTip": "CafeBackend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T23:03:09.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "butonClass.cs",
-              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\PROJELER\\cafe-backend\\CafeBackend\\butonClass.cs",
-              "RelativeDocumentMoniker": "CafeBackend\\butonClass.cs",
-              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\PROJELER\\cafe-backend\\CafeBackend\\butonClass.cs",
-              "RelativeToolTip": "CafeBackend\\butonClass.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\OrderItem.cs",
+              "RelativeToolTip": "CafeBackend\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T22:54:18.611Z",
+              "WhenOpened": "2026-08-01T10:53:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Models\\Ticket.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Ticket.cs",
+              "RelativeToolTip": "CafeBackend\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T10:53:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRecipe.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\ProductRecipe.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Models\\ProductRecipe.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\ProductRecipe.cs",
+              "RelativeToolTip": "CafeBackend\\Models\\ProductRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T10:52:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeBackend\\appsettings.json",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\appsettings.json",
+              "RelativeToolTip": "CafeBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-01T08:27:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Models\\Product.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Product.cs",
+              "RelativeToolTip": "CafeBackend\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T10:52:13.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RawMaterial.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\RawMaterial.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Models\\RawMaterial.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\RawMaterial.cs",
+              "RelativeToolTip": "CafeBackend\\Models\\RawMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T08:03:42.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Models\\Category.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Category.cs",
+              "RelativeToolTip": "CafeBackend\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T08:02:22.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "CafeBackend\\Models\\Table.cs",
+              "ToolTip": "C:\\projeler\\cafe-backend\\CafeBackend\\Models\\Table.cs",
+              "RelativeToolTip": "CafeBackend\\Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T08:01:28.307Z",
               "EditorCaption": ""
             }
           ]

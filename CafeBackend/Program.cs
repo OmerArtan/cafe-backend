@@ -1,28 +1,49 @@
+using CafeBackend.Models;
+using Microsoft.EntityFrameworkCore;
+using CafeBackend.Data; // Bunu ekliyoruz
+
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. Controller Servisini Ekle
-builder.Services.AddControllers();
+// Add services to the container.
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+}); builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-// 2. CORS Güvenlik Ýznini Ekle (builder.Build'ýn ÜSTÜNDE olmalý)
+// 1. Veritabaný baðlantýmýzý sisteme tanýtýyoruz
+builder.Services.AddDbContext<CafeDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// 2. React (Frontend) uygulamasýnýn API'ye istek atabilmesi için CORS politikasý ekliyoruz
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(policy =>
-    {
-        policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader();
-    });
+    options.AddPolicy("AllowReactApp",
+        policy =>
+        {
+            // Þimdilik geliþtirme aþamasýnda her þeye izin veriyoruz (Canlýda buraya sadece React'in adresini yazacaðýz)
+            policy.AllowAnyOrigin()
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
 });
 
-// 3. Uygulamayý Ýnþa Et (Tam olarak burada olmalý!)
 var app = builder.Build();
 
-// 4. CORS'u Aktif Et (app.Build'ýn ALTINDA olmalý)
-app.UseCors();
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
-// 5. Yönlendirme ve Yetkilendirme Ayarlarý
+app.UseHttpsRedirection();
+
+// CORS politikasýný devreye alýyoruz (UseAuthorization'dan önce olmalý)
+app.UseCors("AllowReactApp");
+
 app.UseAuthorization();
+
 app.MapControllers();
 
-// 6. Projeyi Çalýþtýr
 app.Run();
